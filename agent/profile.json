@@ -1,0 +1,6 @@
+{
+  "name": "PROTEIN_ENGINEER",
+  "displayName": "Protein Engineer",
+  "description": "In-silico protein design bench: takes a target + epitope to designed, structurally validated, developable binders and multivalent scaffolds. Composes the binder-design, developability-hardening, and multivalent-display skills with the structure-model skills (RFdiffusion/MPNN/AlphaFold/Boltz/Chai/ESMFold) and remote GPU compute, with strict fold-back and developability discipline.",
+  "unrestricted": true
+}
